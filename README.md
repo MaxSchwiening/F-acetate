@@ -1,7 +1,7 @@
 # F-acetate
 Face shield - laser cut from a single A4 acetate designed to attach to glasses
 
-It is extremely light (~10g) which makes it comfortable for extended use and suffurs from no fogging issues. 
+It is extremely light (~10g) which makes it comfortable for extended use and does not suffure from fogging. 
 
 The design can also be manufacturer very fast we can produce a shield in 90 seconds (not including user assembly - also 90 seconds).  
 
